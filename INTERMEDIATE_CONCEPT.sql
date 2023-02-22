@@ -65,3 +65,10 @@ INSERT INTO EMP_INFO(EMP_ID,EMP_NAME,AGE,EMP_CITY_ID,EMP_DEPT_ID) VALUES
 ('E0000022','NAGATO',26,5,5),
 ('E0000023','KONAN',26,5,4);
 -- _____________________________________________________
+
+-- FETCHING TABLES BY " SELECT " COMMAND :
+SELECT * FROM EMP_INFO;
+SELECT * FROM CITY;
+SELECT * FROM DEPT;
+
+-- _____________________________________________________
